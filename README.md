@@ -16,21 +16,23 @@
 
 ### 🎯 About Me
 
-- 👋 Computer Science student at <b>Jaypee Institute of Information Technology, Noida</b>
-- 💻 Research Intern at <b>Machine Intelligence Lab, IIT Delhi</b> (Speech-to-Speech GenAI for 20+ low-resource languages)
-- 🚀 SDE Intern @ <b>Burnett Brucke Pvt Ltd</b> — <i>Django APIs & production feature dev</i>
-- 🤝 Prev: <b>Infosys Springboard (AI/ML)</b> — Created an AI data extractor with 70% efficiency boost
+- 👋 Computer Science student at <b>Jaypee Institute of Information Technology, Noida</b>  
+- 💻 Research Intern at <b>Machine Intelligence Lab, IIT Delhi</b> — Speech-to-Speech GenAI for 20+ low-resource languages  
+- 🚀 SDE Intern @ <b>Burnett Brucke Pvt Ltd</b> — Django APIs & production feature dev  
+- 🤝 Prev: <b>Infosys Springboard (AI/ML)</b> — Created an AI data extractor with 70% efficiency boost  
 
 ---
 
 ### 🚩 Featured Projects
 
-- <b>DevCoach – AI Career Assistant</b> (LangChain, Llama3, Flask)  
+- [**DevCoach – AI Career Assistant**](https://github.com/Satvik20Pandey/devcoach) (LangChain, Llama3, Flask)  
   Custom LLM chatbot using 5 ML models on 50K+ StackOverflow records for live career forecasts.
-- <b>Node2Path – Graph Distance DL</b>  
+  
+- [**Node2Path – Graph Distance DL**](https://github.com/Satvik20Pandey/node2path)  
   DeepWalk + Neural Network for SN Graphs (~3.4K pairs) — 30% more efficient distance predictions.
-- <b>StoxMate – Sentiment based Stock Predictor</b>  
-  <i>Published in IC3 2025</i> — Personalizes stock trend forecasts with sentiment & ML.
+  
+- [**StoxMate – Sentiment based Stock Predictor**](https://github.com/Satvik20Pandey/stoxmate)  
+  *Published in IC3 2025* — Personalizes stock trend forecasts with sentiment & ML.
 
 ---
 
@@ -51,16 +53,28 @@
 
 ### 🏆 Achievements
 
-- 🥈 <b>Top 5% Silver – NLP (NPTEL, IIT Kharagpur)</b>
+- 🥈 **Top 5% Silver – NLP (NPTEL, IIT Kharagpur)**
 - 🥇 Udemy AI/ML Certified (6 real-world projects)
-- 🧑‍💻 Solved <b>300+ coding problems</b> on LeetCode & GeeksforGeeks
+- 🧑‍💻 Solved **300+ coding problems** on LeetCode & GeeksforGeeks
 
 ---
 
 ### 📚 Latest Publication
 
-- <b>StoxMate: Stock Market Predictor Using Sentiment Analysis</b>  
-  <i>International Conference on Contemporary Computing (IC3) 2025</i>
+- **StoxMate: Stock Market Predictor Using Sentiment Analysis**  
+  *International Conference on Contemporary Computing (IC3) 2025*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satvik20Pandey&show_icons=true&theme=default" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Satvik20Pandey&theme=default" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Satvik20Pandey&label=Visitors&color=blue&style=flat" />
+</p>
 
 ---
 
